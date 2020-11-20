@@ -11,5 +11,6 @@
 
     <modules>
         <module>hutool-demo</module>
+        <module>common-util-demo</module>
     </modules>
 </project>
