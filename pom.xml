@@ -12,5 +12,6 @@
     <modules>
         <module>hutool-demo</module>
         <module>common-util-demo</module>
+        <module>baidu-api-demo</module>
     </modules>
 </project>
